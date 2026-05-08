@@ -1,4 +1,4 @@
-# shieldrate
+# ShieldRate
 Defending distributed APIs against malicious traffic spikes.
 
 ## 分布式接口防刷（限流）系统设计与实现
